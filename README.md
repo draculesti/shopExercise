@@ -1,4 +1,4 @@
-# 🍔 Shop exercise
+# 👜 Shop exercise
 
 Exercise to use grid on our page
 
